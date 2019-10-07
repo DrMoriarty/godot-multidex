@@ -1,2 +1,2 @@
 
-android:name="android.support.multidex.MultiDexApplication"
+android:name="androidx.multidex.MultiDexApplication"
