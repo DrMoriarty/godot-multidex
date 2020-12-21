@@ -8,7 +8,7 @@
   ],
   "platform_android": {
     "files": {
-      "multidex": "android/plugins/multidex/"
+      "multidex": "android/multidex/"
     }
   }
 }
