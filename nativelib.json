@@ -1,11 +1,17 @@
 {
   "name": "multidex",
-  "description": "Multidex support for Godot engine",
-  "version": "0.1.0",
+  "display_name": "Multidex",
+  "description": "Multidex support plugin",
+  "version": "0.1.1",
+  "godot_version": "3.3.0",
   "license": "MIT",
   "url": "https://github.com/DrMoriarty/godot-multidex.git",
-  "dependencies": [
-  ],
+  "category": "misc",
+  "author": {
+    "name": "DrMoriarty",
+    "url": "https://github.com/DrMoriarty",
+    "donate": "https://ko-fi.com/drmoriarty"
+  },
   "platform_android": {
     "files": {
       "multidex": "android/multidex/"
